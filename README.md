@@ -1,5 +1,5 @@
 # arduino
-MagneBall - jocul pare putin greu la inceput, dar dupa ce este invatata miscarea bilei acesta devine floare la ureche.
+<a href="https://www.youtube.com/watch?v=cHz5MrQOI-E&feature=youtu.be" target="_blank">MagneBall - jocul pare putin greu la inceput, dar dupa ce este invatata miscarea bilei acesta devine floare la ureche.</a>
 
 Componente utilizate:
 - Arduino Uno
